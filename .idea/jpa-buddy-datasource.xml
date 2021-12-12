@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="a1914ef4-91f6-4ce7-8e61-9c84ef044ae5" name="Application.java" url="jdbc:postgresql://localhost/8080" driverClass="org.postgresql.Driver" />
+      <data-source id="c3cbf8a9-7730-40e1-b819-a00616afabf1" name="Courseinfo" url="jdbc:postgresql://localhost/Application.java" driverClass="org.postgresql.Driver" />
+      <data-source id="3be17f41-4664-40d4-b2ef-9f99293e8394" name="CourseRepository" url="jdbc:postgresql://localhost/Application.java" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
