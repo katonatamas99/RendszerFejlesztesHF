@@ -1,5 +1,5 @@
 #RFT házi feladatok
-
+Csoport tagok:Katona Tamás,Jánócsik Csaba
 
 - Java 11
 - H2 adatbázis
